@@ -1,0 +1,43 @@
+# Standard Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter/Notebook files
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+*.code-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.secrets
+configs/*.local  # Ignore local config overrides
+
+
+# Logs and outputs
+*.log
+*.out
+output/
+models/  # Ignore saved models if any
+
+# Documentation files
+_build/

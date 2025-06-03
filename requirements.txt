@@ -1,0 +1,23 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+notebook
+scipy
+joblib
+tqdm
+# Deep learning framework (choose one or both as needed)
+tensorflow
+# torch and torchvision are for PyTorch users
+torch
+torchvision
+# Optional: for handling image data
+Pillow
+# Optional: for working with CSV/Excel files
+openpyxl
+# Optional: for hyperparameter tuning
+optuna
+# Optional: for interactive visualizations
+plotly
